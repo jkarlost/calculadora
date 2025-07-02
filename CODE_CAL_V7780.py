@@ -508,7 +508,7 @@ def main():
             <h1 style="margin:0;color:#1E3A8A;">Taller de Bienes Raíces</h1>
             <h3 style="margin:0;color:#6B7280;">Calculadora Financiera para Inversión Inmobiliaria</h3>
         </div>
-        <img src="https://raw.githubusercontent.com/Santospe2000/Calculator_IA/main/WhatsApp%20Image%202025-05-19%20at%2012.57.14%20PM.jpeg" class="logo" alt="Logo">
+        <img src="https://raw.githubusercontent.com/Santospe2000/Calculator_IA/main/Logo_TRB-app.jpeg" class="logo" alt="Logo">
     </div>
     
     <div class="calculator-container">
